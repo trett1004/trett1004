@@ -1,8 +1,8 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Max ![image](https://github.com/trett1004/trett1004/assets/106878273/40b22771-6c15-42f9-b3af-be0ccfb2e908)
+Hello there, My name is Max ![image](https://github.com/trett1004/trett1004/assets/106878273/40b22771-6c15-42f9-b3af-be0ccfb2e908)
 
 ===========================================================================================================================
 
-Passionate Programmer
+I am a passionate programmer
 ---------------------
 
 Developing Frontends mostly with React. Sometimes I dive into backends as well.
