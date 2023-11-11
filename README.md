@@ -1,4 +1,4 @@
-# Hello there, My name is Max ![image](https://github.com/trett1004/trett1004/assets/106878273/40b22771-6c15-42f9-b3af-be0ccfb2e908)
+# Hello there, My name is Max :waving_hand:
 
 ## I am a passionate programmer
 ---------------------
