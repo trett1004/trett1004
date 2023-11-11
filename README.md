@@ -1,4 +1,4 @@
-# Hello there, My name is Max :waving_hand:
+# Hello there, my name is Max :waving_hand:
 
 ## I am a passionate programmer
 ---------------------
