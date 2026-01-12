@@ -6,8 +6,7 @@
 ### Developing Frontends mostly with React. Sometimes I dive into backends as well.
 
 *   🌍  I'm based in Berlin, Germany
-*   📫  You can contact me at [maxtretter@tutanota.com](mailto:maxtretter@tutanota.com)
-*   🌱  I am learning React Native
+*   📫  You can contact me at [maxtretter@mailbox.org](mailto:maxtretter@mailbox.org)
 *   🔭 I’m currently working on all sorts of frontends mostly with ReactJS
 
    ### Skills and Socials
