@@ -1,12 +1,10 @@
-    # Hello there, my name is Max 👋
+# Hello there, my name is Max 👋
 
 ## I am a passionate programmer
----------------------
 
-### Mobile app developer
-
-*   🌍  I'm based in Berlin, Germany
-*   📫  You can contact me at [maxtretter@mailbox.org](mailto:maxtretter@mailbox.org)
+*   Mobile app developer
+*   I'm based in Berlin, Germany
+*   You can contact me at [maxtretter@mailbox.org](mailto:maxtretter@mailbox.org)
 
    ### Skills and Socials
 
