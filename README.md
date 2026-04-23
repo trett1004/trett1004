@@ -1,13 +1,12 @@
-# Hello there, my name is Max 👋
+    # Hello there, my name is Max 👋
 
 ## I am a passionate programmer
 ---------------------
 
-### Developing Frontends mostly with React. Sometimes I dive into backends as well.
+### Mobile app developer
 
 *   🌍  I'm based in Berlin, Germany
 *   📫  You can contact me at [maxtretter@mailbox.org](mailto:maxtretter@mailbox.org)
-*   🔭 I’m currently working on all sorts of frontends mostly with ReactJS
 
    ### Skills and Socials
 
